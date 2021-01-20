@@ -1,0 +1,47 @@
+h1{
+color: lightpink; font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2{
+    color: salmon; font-family: monospace;
+}
+
+h3 {
+    color: deeppink; font-family: cursive;
+}
+
+.grid {
+    border: 2px solid black; 
+    border-radius: 50px;
+display: flex;
+justify-content: space-between;
+}
+
+.origami1 {
+    border-radius: 20px;
+    background-color: white ;
+    width: 310 xp;
+    font-family: fantasy;
+}
+
+.menu{
+display: flex;
+justify-content: space-between; 
+background-color: black;
+font-size: 20px;
+font-family: sans-serif;
+font-weight: 400;
+color: white;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+li {
+    color: crimson; font-family: unset;
+}
+
+p {
+    margin-top: 50px;
+}
